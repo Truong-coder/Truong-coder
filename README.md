@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Truong
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects.
+- 👀 I’m interested in Mobile Development
+- 🌱 I currently focused on React Native
 - 📫 How to reach me: dinhtruong2k2k@gmail.com
 
 <!---

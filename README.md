@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Truong
-- 👀 I’m interested in Mobile Development
-- 🌱 I currently focused on React Native
+- 👀 I’m interested in Web & Mobile Development
+- 🌱 I currently focused on Reactjs & React Native
 - 📫 How to reach me: dinhtruong2k2k@gmail.com
 
 <!---
